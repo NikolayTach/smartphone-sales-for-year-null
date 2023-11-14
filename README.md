@@ -1,6 +1,6 @@
 | Brand      | Model          | Year of release  | Euro price approx | Yearly  \% shift |
 |-----------|----------------|-------------------|---------------|-----------------------------|
-| Fairphone | Fairphone 4    | 2023              | $535.07         | (N/A - nieuw model)         |
+| Fairphone | Fairphone 4    | 2023              | $535.07         | (N/A - new model)         |
 | Samsung   | Galaxy S21     | 2021              | $856.12         | \( \frac{800 - 700}{700} \times 100 \approx 14.29\% \)   |
 | Apple     | iPhone 13 Pro  | 2021              | $1177.16         | \( \frac{1100 - 800}{800} \times 100 \approx 37.5\% \)   |
 | LG        | Velvet         | 2020              | $642.09         | \( \frac{600 - 900}{900} \times 100 \approx -33.33\% \)   |

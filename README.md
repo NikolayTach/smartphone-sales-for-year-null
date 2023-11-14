@@ -1,4 +1,4 @@
-| Merk      | Model          | Jaar van Uitgave | Prijs in Euro | Jaarlijkse \% Verandering |
+| Brand      | Model          | year of production | Euro price | Yearly  \% shift |
 |-----------|----------------|-------------------|---------------|-----------------------------|
 | Fairphone | Fairphone 4    | 2023              | €500          | (N/A - nieuw model)         |
 | Samsung   | Galaxy S21     | 2021              | €800          | \( \frac{800 - 700}{700} \times 100 \approx 14.29\% \)   |
